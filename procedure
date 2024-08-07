@@ -1,0 +1,10 @@
+1 Import the Data:
+   -Begin by importing the dataset into your environment 
+2 Identify Dependent and Independent Variables:
+    -Determine which variables are dependent and which are independent.
+3 Optimize the Dataset:
+    -Clean and preprocess the data to ensure it is ready for analysis.
+4 Perform Correlation Analysis:
+    -Calculate the correlation between the variables to understand their relationships.
+Output the Results:
+   -Display the results of the correlation analysis
